@@ -1,0 +1,6 @@
+department,token_limit,monthly_budget_eur,warning_threshold_percent,critical_threshold_percent
+Engineering,80000,15,80,100
+HR,10000,15,80,100
+Marketing,10000,15,80,100
+Finance,10000,15,80,100
+IT,10000,20,80,100

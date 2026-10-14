@@ -1,0 +1,28 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables / secrets
+.env
+.env.*
+*.key
+*.pem
+
+# macOS
+.DS_Store
+
+# VS Code local settings
+.vscode/
+
+# Generated reports
+reports/*.csv
+reports/*.txt
+
+# Old generated files in project root
+latest_ai_recommendation.txt
+licence_review.csv
+licence_review_*.csv

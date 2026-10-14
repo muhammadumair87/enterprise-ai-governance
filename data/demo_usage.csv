@@ -1,0 +1,6 @@
+name,department,tool,days_since_activity,licence_cost_eur,input_tokens,output_tokens,cached_tokens,uncached_tokens,request_count,user_token_limit,estimated_spend_eur
+Alice,Engineering,Copilot,2,20,4200,1600,400,3800,145,10000,8.20
+Bob,HR,Copilot,45,20,6100,2000,900,5200,62,10000,12.40
+Charlie,Marketing,Cursor,12,40,1200,600,150,1050,30,10000,3.10
+Diana,Finance,ChatGPT,65,30,450,250,50,400,8,10000,1.20
+Erik,IT,Cursor,4,40,6900,2400,1200,5700,210,10000,17.80
